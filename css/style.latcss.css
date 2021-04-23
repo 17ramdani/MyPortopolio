@@ -1,0 +1,72 @@
+body{ background-color: orange;}
+
+#content{
+    width: 800px;
+    margin: auto;
+}
+
+#header{
+    border: 1px solid#000000;
+    background-color: #000000;
+    padding: 10px;
+}
+
+h1{
+    text-align: 10px;
+    border: 1px solid#000000;
+    line-height: 5px;
+    color: rgb(255, 255, 255);
+}
+
+#footer p {
+    text-align: center;
+    font-weight: bold;
+}
+
+#menu {float: right;}
+
+.navigasi{
+    border: 1px dashed #000;
+    margin-top: 10px;
+    padding: 10px;
+    background: grey;
+}
+
+#isi{ 
+    width: 530px;
+    height: 450px;
+    margin-top:10px ;
+    margin-bottom: 10px ;
+    padding: 10px;
+    border: 1px solid #000;
+    background: white;
+}
+
+.gambar{
+    float: left;
+    margin-top: 0px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    border: 1px solid#000;
+    width: 30%;
+    height: 30%;
+}
+
+#isi p{
+    text-align: justify;
+    line-height: 18px;
+    margin-top: 0px;
+}
+
+ul{
+    list-style: none;
+}
+
+a:hover{
+    color: yellow;
+}
+
+a:visited{
+    color: black;
+}

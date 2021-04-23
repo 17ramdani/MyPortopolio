@@ -1,0 +1,34 @@
+body{
+    list-style: none;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-image:url(../Image/Backindex.jpg) ;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.display-4{
+    padding-top: 2rem;
+}
+
+
+#about{
+    padding-top: 3rem;
+}
+
+#project{
+    padding-top: 6rem;
+    background-color: #b1afa1;
+}
+
+.row{
+    margin-top: 30px;
+}
+
+#contact{
+    padding-top: 3rem;
+}
+
+

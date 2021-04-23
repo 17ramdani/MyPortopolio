@@ -1,0 +1,16 @@
+body{
+	background-image: url("bg2.png");
+	background-repeat: repeat-x repeat-y;
+
+}
+ul{
+ width: 400px;
+ height: 240px;
+ background-color: skyblue;
+ overflow: auto;
+}
+
+@keyframes mymove {
+  from {left: 0px;}
+  to {left: 200px;}
+}

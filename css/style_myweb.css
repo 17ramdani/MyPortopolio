@@ -1,0 +1,19 @@
+.wrapper{
+    width: 800px; height: auto; background-color: #999999;
+}
+
+.header{
+    width: 800px; height: 200px; background-image:url(bg2.png) ;
+}
+
+.left{
+    width: 200px; height: 400px; background-color: yellow; float: left;
+}
+
+.right{
+    width: 600px; height: 400px; background-color: #0033ff; float: left;
+}
+
+.footer{
+    width: 800px; height: 100px; background-color: red; clear: left;
+}

@@ -1,0 +1,24 @@
+.tulisan_kiri{
+	color: blue;
+	text-align: left;
+	text-decoration: underline;
+	text-transform: lowercase;
+}
+.tulisan_kanan{
+	text-align: right;
+	text-transform: capitalize;
+	text-decoration: overline;
+}
+.tulisan_tengah{
+	text-align: center;
+	text-transform:uppercase;
+	word-spacing: 10px;
+	text-decoration: line-through;
+}
+.tulisan_empat{
+	text-align:justify;
+	text-transform: lowercase;
+	text-indent: 30px;
+	line-height: 30px;
+	letter-spacing: 5px;
+}

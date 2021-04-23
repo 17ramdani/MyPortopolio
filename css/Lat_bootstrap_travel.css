@@ -1,0 +1,42 @@
+body{
+    background-image: url(../Image/Pantai\ Pasir\ Ombak\ Foto\ Musim\ Panas\ Wallpaper.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.jumbotron{
+    height: 700px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.jumbotron .display-4{
+    margin-top: 40px;
+    color:rgb(253, 228, 5);
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.jumbotron .lead{
+    margin-top: 70px;
+    font-size: 25px;
+    font-weight: lighter;
+    
+}
+
+.jumbotron hr{
+    color: rgb(250, 212, 0);
+}
+
+.jumbotron .btn {
+    border-color:red ;
+    border: none;
+    border-radius: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-top: 60px;
+}
+
+.row{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+

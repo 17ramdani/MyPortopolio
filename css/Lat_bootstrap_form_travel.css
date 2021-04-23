@@ -1,0 +1,20 @@
+body{
+    background-image:url(../Image/Backform.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.jumbotron{
+    text-align: center;
+    color: aliceblue;
+    margin-top: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+form{
+    color: aliceblue;
+    margin-top: 50px;
+}
+button{
+    margin-left:40% ;
+}

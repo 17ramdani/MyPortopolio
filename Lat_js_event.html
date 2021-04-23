@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Js</title>
+</head>
+<body>
+    <h1>JAVASCRIPT</h1>
+    <h2> Belajar Event</h2>
+
+    <!--  memberikan event pada element tombol-->
+    <button onclick="tampilkan_nama()">KLIK SAYA </button>
+
+    <!-- id hasil  -->
+    <div id="hasil"></div>
+
+    <script>
+        // membuat function tampilkan_nama 
+        function tampilkan_nama(){
+            document.getElementById("hasil").innerHTML="<h3>Nama Saya Adalah Ramdani</h3>";
+        }
+
+    </script>
+</body>
+</html>

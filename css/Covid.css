@@ -1,0 +1,34 @@
+.jumbotron{
+    background-image: url(../Image/Backcovid4.png);
+    background-size: cover;
+    height: 670px;
+    padding-top: 5rem;
+}
+
+#pengertian{
+    padding-top: 4rem;
+    background-color: #c74949;
+    color: aliceblue;
+}
+
+#resiko{
+    padding-top: 4rem;
+    background-color: #d46868;
+    color: aliceblue;
+}
+
+#penyebaran{
+    padding-top: 4rem;
+    background-color: #f08a8a;
+    color: rgb(75, 63, 63);
+}
+
+#gejala{
+    padding-top: 4rem;
+    background-color: #eba8a8;
+}
+
+#pencegahan{
+    padding-top: 3rem;
+    background-color: #eecccc;
+}

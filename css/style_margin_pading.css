@@ -1,0 +1,13 @@
+.box{
+	background: blue;
+	height: 200px;
+	width: 300px;
+	margin: 20px;
+}
+
+.box-dua{
+	background: red;
+	height: 100px;
+	width: 200px;
+	margin-left: 70px;
+}
