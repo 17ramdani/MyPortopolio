@@ -1,0 +1,30 @@
+.jumbotron{
+    background-image: url(./Rome.png);
+    background-size: cover;
+    height: 700px;
+}
+
+#about{
+    margin-top:-2rem;
+    background-color:#FBCD33;
+}
+
+#about h1{
+    margin-top: 2rem;
+    color: black;
+}
+
+#about p {
+    margin-top: 2rem;
+    color:black;
+    font-size: larger;
+}
+#destination{
+    background-color: #FBCD33;
+}
+#destination h1{
+    margin-top: 2rem;
+}
+.card{
+    margin-top: 2rem;
+}
